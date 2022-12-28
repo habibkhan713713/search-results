@@ -8,8 +8,9 @@ export default class Table extends React.Component {
           <tr>
             <th scope="col">BOOK ID</th>
             <th scope="col">BOOK Name</th>
-            <th scope="col">Fine Amount</th>
-            <th scope="col">Days Overdue</th>
+            <th scope="col">Author Name</th>
+            <th scope="col">Genre</th>
+            <th scope="col">Copies</th>
           </tr>
         </thead>
         </table>
